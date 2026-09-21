@@ -1,0 +1,8 @@
+{
+  "defaultProduct": {
+    "nome": "Produto Automation",
+    "preco": 150,
+    "descricao": "Produto criado pelo teste automatizado",
+    "quantidade": 10
+  }
+}

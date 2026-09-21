@@ -1,0 +1,20 @@
+{
+  "defaultUser": {
+    "nome": "QA Automation",
+    "emailPrefix": "qa.user",
+    "password": "Teste@123",
+    "administrador": "false"
+  },
+
+  "admin": {
+    "nome": "QA Admin",
+    "emailPrefix": "qa.admin",
+    "password": "Teste@123",
+    "administrador": "true"
+  },
+
+  "invalid": {
+    "email": "usuario.invalido@teste.com",
+    "password": "senhaInvalida123"
+  }
+}
